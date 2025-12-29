@@ -1,0 +1,7 @@
+{
+  "name": "双向记录-1",
+  "description": "A low-burden, non-judgmental tracking tool for mood, sleep, and medication. Focuses on self-awareness and pattern recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
